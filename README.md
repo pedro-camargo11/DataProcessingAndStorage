@@ -1,7 +1,5 @@
 # DataProcessingAndStorage
 
-# Extra Credit Assignment for Enterprise Software Engineering Practices
-
 # Usage instructions:
 Everything  is self contained, all you have to do to see the functionality of this program is clone the repository and run the main program. 
 No external dependencies.
